@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sign Up</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="APP_ID">302523623289784</string>
+    <string name="title_activity_calorie">CalorieActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
